@@ -8,3 +8,8 @@ Brief description about the source, why it's important, insert some examples
 
 Suggestions of how one could use it (instructors and students).
 Can insert examples here of short realizations
+
+### Downloads
+
+Insert download links here
+<a href="victorphan.github.io/kittel-chorales/Kittel-24-Edition.pdf" target="_blank">PDF.</a>
