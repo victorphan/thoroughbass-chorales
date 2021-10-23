@@ -1,3 +1,13 @@
-title: 24 Kittel Chorales
-theme: jekyll-theme-minimal
 baseurl: /kittel-chorales
+title: Kittel Chorales
+author: Victor Phan
+simple_search: http://google.com/search
+description: kittel chorales description
+name: kittelchorales
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+page:
+  template: _page.txt
+  extension: md
