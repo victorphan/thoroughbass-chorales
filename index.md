@@ -12,4 +12,4 @@ Can insert examples here of short realizations
 ### Downloads
 
 Insert download links here
-<a href="victorphan.github.io/kittel-chorales/downloads/Kittel-24-Edition.pdf" target="_blank">Kittel Digital Edition.</a>
+<a href="{{ site.baseurl }}/downloads/Kittel-24-Edition.pdf" target="_blank">Kittel Digital Edition.</a>
