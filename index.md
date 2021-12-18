@@ -4,9 +4,9 @@ title: Home
 order: 0
 ---
 
-blah blah blah blah. Add description of the source, what is it, why is it significant. Add description of digitization effort, and pedagogical editions.
+According to C. P. E. Bach, his father taught chorale harmonization by first giving the outer voices (and presumably figures).
+Then he required his pupils to compose their own basses.
 
-Here is an example:
 {% fullwidth "assets/img/kittel_1.png" "Kittel's multiple bass harmonizations" %}
 
 ### How do I use it?

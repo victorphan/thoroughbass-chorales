@@ -1,9 +1,9 @@
-baseurl: /kittel-chorales
-title: Kittel Chorales
+baseurl: /figured-chorales
+title: Figured Chorales
 author: Victor Phan
 simple_search: http://google.com/search
-description: kittel chorales description
-name: kittelchorales
+description: figured chorales description
+name: figuredchorales
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
