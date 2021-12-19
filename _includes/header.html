@@ -6,7 +6,7 @@
 	{% for node in sorted_pages %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}
-			  <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active" title="{{node.title}}"><strong>{{node.title}}</strong></a>
+			  <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active" title="{{node.title}}">{{node.title}}</a>
 		    {% elsif node.title.size > 0 %}
 		      <a href="{{node.url | prepend: site.baseurl}}" title="{{node.title}}">{{node.title}}</a>
 		    {% endif %}
