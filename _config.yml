@@ -1,9 +1,9 @@
-baseurl: /figured-chorales
-title: Figured Chorales
+baseurl: /thoroughbass-chorales
+title: Thoroughbass Chorales
 author: Victor Phan
 simple_search: http://google.com/search
-description: figured chorales description
-name: figuredchorales
+description: thoroughbass chorales description
+name: thoroughbass-chorales
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
@@ -11,3 +11,4 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'REA
 page:
   template: _page.txt
   extension: md
+destination: docs/
